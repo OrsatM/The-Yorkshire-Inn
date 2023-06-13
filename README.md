@@ -3,6 +3,14 @@
 
 This is a senior year college project that I've worked on with a team, in which I've done the design and implementation of the website.
 
+## How to run the project
+1. Download the project zip
+2. Download XAMPP: https://www.apachefriends.org/
+3. Open XAMPP and click "Explorer"
+4. Open the "htdocs" folder
+5. Drag or paste the project in this folder and unzip it
+6. In XAMPP, press "Start" for Apache and MySQL
+7. In your browser, paste this link into the search bar: http://localhost/The-Yorkshire-Inn-master/public/ 
 
 ## Screenshots
 
